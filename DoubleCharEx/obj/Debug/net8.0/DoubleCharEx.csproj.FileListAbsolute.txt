@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\bin\Debug\net8.0\DoubleCharEx.exe
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\bin\Debug\net8.0\DoubleCharEx.deps.json
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\bin\Debug\net8.0\DoubleCharEx.runtimeconfig.json
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\bin\Debug\net8.0\DoubleCharEx.dll
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\bin\Debug\net8.0\DoubleCharEx.pdb
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\obj\Debug\net8.0\DoubleCharEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\obj\Debug\net8.0\DoubleCharEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\obj\Debug\net8.0\DoubleCharEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\obj\Debug\net8.0\DoubleCharEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\obj\Debug\net8.0\DoubleCharEx.dll
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\obj\Debug\net8.0\refint\DoubleCharEx.dll
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\obj\Debug\net8.0\DoubleCharEx.pdb
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\obj\Debug\net8.0\DoubleCharEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\DoubleCharEx\DoubleCharEx\obj\Debug\net8.0\ref\DoubleCharEx.dll
